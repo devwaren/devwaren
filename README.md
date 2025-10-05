@@ -6,6 +6,8 @@ I'm a passionate web developer with strong expertise in **TypeScript, JavaScript
 
 What drives me is turning ideas into **production-ready solutions** that people actually use.  
 
+I'm also the Creator of Vanilla TS SSR Package that allows you to make your website frameworkless and support zustand state management with filebased systems.
+
 ---
 
 ## 🚀 About Me  
@@ -66,4 +68,5 @@ If you’re working on something exciting — let’s connect!
 
 ---
 ⭐️ *Passion + Consistency = Seniority* 🚀
+
 
