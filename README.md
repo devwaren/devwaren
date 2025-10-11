@@ -2,9 +2,12 @@
 
 💻 ** Full-Stack Engineer | OSS Contributor**  
 
-I'm a passionate web developer with strong expertise in **TypeScript, JavaScript, and modern web stacks**. I specialize in building **scalable applications, secure APIs, and performant frontend systems**.  
+💻 Staff Software Engineer | Full-Stack Architect | OSS Contributor
 
-What drives me is turning ideas into **production-ready solutions** that people actually use.  
+I’m a passionate engineer who turns ideas into secure, scalable, and elegant software systems.
+My expertise spans from frontend architecture to backend infrastructure, with deep roots in TypeScript, Go Fiber, and modern web performance engineering.
+
+What defines my work is craftsmanship and clarity — I design systems that are fast, secure, and maintainable, without sacrificing developer experience.
 
 I'm also the Creator of Vanilla TS SSR Package that allows you to make your website frameworkless and support zustand state management with filebased systems.
 
@@ -78,6 +81,7 @@ If you’re working on something exciting — let’s connect!
 
 ---
 ⭐️ *Passion + Consistency = Seniority* 🚀
+
 
 
 
