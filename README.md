@@ -11,6 +11,26 @@ What defines my work is craftsmanship and clarity — I design systems that are 
 
 I'm also the Creator of Vanilla TS SSR Package that allows you to make your website frameworkless and support zustand state management with filebased systems.
 
+my main focus
+
+CSRF | RSP | Refresh Tokens | Session ID's - Token AES-GCM Encryption
+
+I focus on these deep understanding of architectural security api by. design 
+
+- Cookies must be important concept in where you need to understand what is HTTPOnly, SameSite, Secured, Domain, Path and Partition.
+- RSA Signature Cryptography is dynamically change every login session by the user.
+- Secrets are dynamically change every 5 mins which is hard to manipulate
+- Content Security Policy - Most important header to avoid Cross Site Scripting (XSS)
+- Trusted-types - only trusted elements allowed
+- Cloudflare Firewall
+
+I also make reusable hooks, components and folder structure
+- DRY - Don't Repeat Yourself
+- Separation Concerns
+- Accessibility
+- UI/UX Design
+- SEO (100%) - Deep understanding of SEARCH ENGINE OPTIMIZATION metadatas
+
 ```bash
 
 $npm install @devwareng/vanilla-ts
@@ -81,6 +101,7 @@ If you’re working on something exciting — let’s connect!
 
 ---
 ⭐️ *Passion + Consistency = Seniority* 🚀
+
 
 
 
