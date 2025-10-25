@@ -50,7 +50,9 @@ $npm install @devwareng/vanilla-js
 - 🔒 Advocate of **web security** → CSRF, JWT, encryption, SSRF protection, rate limiting  
 - 📦 Published NPM packages & tools for the developer community  
 - 🧩 Strong focus on **UI/UX, reusable components, and clean architectures**  
-- 🎯 Always shipping projects **ahead of deadlines** with well-documented code  
+- 🎯 Always shipping projects **ahead of deadlines** with well-documented code
+
+  "Do it strict and secure before it strikes in production" - Dev Waren
 
 ---
 
@@ -101,6 +103,7 @@ If you’re working on something exciting — let’s connect!
 
 ---
 ⭐️ *Passion + Consistency = Seniority* 🚀
+
 
 
 
